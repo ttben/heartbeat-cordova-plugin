@@ -1,0 +1,14 @@
+{
+    "name": "heartbeat-cordova-plugin",
+    "version": "0.2.2",
+    "description": "Measure your heartbeat by using the Happitech SDK",
+    "main": "www/heartbeat.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ttben/heartbeat-cordova-plugin.git"
+    },
+    "homepage": "https://github.com/ttben/heartbeat-cordova-plugin"
+  }
